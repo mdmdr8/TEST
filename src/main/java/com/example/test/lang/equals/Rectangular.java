@@ -1,6 +1,4 @@
-package com.example.test.lang;
-
-import java.util.Objects;
+package com.example.test.lang.equals;
 
 public class Rectangular {
     private int with;

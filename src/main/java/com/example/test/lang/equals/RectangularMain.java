@@ -1,4 +1,4 @@
-package com.example.test.lang;
+package com.example.test.lang.equals;
 
 public class RectangularMain {
     public static void main(String[] args) {
